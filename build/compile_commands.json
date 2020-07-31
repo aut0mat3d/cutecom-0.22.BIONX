@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT3_SUPPORT -I/usr/include/qt4/QtDesigner -I/usr/include/qt4/QtDeclarative -I/usr/include/qt4/QtScriptTools -I/usr/include/qt4/QtDBus -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtSql -I/usr/include/qt4/QtNetwork -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtHelp -I/usr/include/qt4/QtUiTools -I/usr/include/qt4/QtTest -I/usr/include/qt4/QtScript -I/usr/include/qt4/QtSvg -I/usr/include/qt4/Qt3Support -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtCore -I/usr/share/qt4/mkspecs/default -I/usr/include/qt4 -I/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build  -g   -o CMakeFiles/cutecom.dir/main.o -c /home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/main.cpp",
+  "file": "/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/main.cpp"
+},
+{
+  "directory": "/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT3_SUPPORT -I/usr/include/qt4/QtDesigner -I/usr/include/qt4/QtDeclarative -I/usr/include/qt4/QtScriptTools -I/usr/include/qt4/QtDBus -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtSql -I/usr/include/qt4/QtNetwork -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtHelp -I/usr/include/qt4/QtUiTools -I/usr/include/qt4/QtTest -I/usr/include/qt4/QtScript -I/usr/include/qt4/QtSvg -I/usr/include/qt4/Qt3Support -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtCore -I/usr/share/qt4/mkspecs/default -I/usr/include/qt4 -I/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build  -g   -o CMakeFiles/cutecom.dir/qcppdialogimpl.o -c /home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/qcppdialogimpl.cpp",
+  "file": "/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/qcppdialogimpl.cpp"
+},
+{
+  "directory": "/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -DQT3_SUPPORT -I/usr/include/qt4/QtDesigner -I/usr/include/qt4/QtDeclarative -I/usr/include/qt4/QtScriptTools -I/usr/include/qt4/QtDBus -I/usr/include/qt4/QtXml -I/usr/include/qt4/QtSql -I/usr/include/qt4/QtNetwork -I/usr/include/qt4/QtXmlPatterns -I/usr/include/qt4/QtHelp -I/usr/include/qt4/QtUiTools -I/usr/include/qt4/QtTest -I/usr/include/qt4/QtScript -I/usr/include/qt4/QtSvg -I/usr/include/qt4/Qt3Support -I/usr/include/qt4/QtGui -I/usr/include/qt4/QtCore -I/usr/share/qt4/mkspecs/default -I/usr/include/qt4 -I/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build  -g   -o CMakeFiles/cutecom.dir/moc_qcppdialogimpl.o -c /home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build/moc_qcppdialogimpl.cxx",
+  "file": "/home/raobereg/BionX/BIB1/Sniffing/cutecom/cutecom-0.22.BIONX/build/moc_qcppdialogimpl.cxx"
+}
+]
